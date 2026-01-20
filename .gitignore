@@ -1,0 +1,12 @@
+data/
+datasets/
+*.pt
+*.pth
+*.npy
+*.mat
+__pycache__/
+.ipynb_checkpoints/
+nie/
+*.rar
+
+
